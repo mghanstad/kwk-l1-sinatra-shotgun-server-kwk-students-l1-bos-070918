@@ -17,8 +17,5 @@ class App < Sinatra::Base
   get '/karlie_is_coming_again' do
     "Hello World"
   end
-  
-  get '/the_woat' do
-    'fucking Tia'
-  end
+
 end
